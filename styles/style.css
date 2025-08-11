@@ -384,7 +384,7 @@
   flex-direction: row;
   color: #ffffff;
   text-decoration: none;
-  align-items: stretch;
+  align-items: center;
   gap: 10px;
 }
 
